@@ -24,7 +24,6 @@
 https://drive.google.com/drive/folders/1qWzhErKC7uWrZwObLiMG8Bf1xU8RnIs7?usp=sharing
 ```
 
-## Change the root in here:
+## Change the path in here:
 
-![Line 97](https://github.com/tingchihc/AI_customer_service/blob/935179648f073e3e00cc91f7c67d2074c755787c/app.py#L97)
-![Line 98](https://github.com/tingchihc/AI_customer_service/blob/935179648f073e3e00cc91f7c67d2074c755787c/app.py#L98)
+[Line 97](https://github.com/tingchihc/AI_customer_service/blob/935179648f073e3e00cc91f7c67d2074c755787c/app.py#L97), [Line 98](https://github.com/tingchihc/AI_customer_service/blob/935179648f073e3e00cc91f7c67d2074c755787c/app.py#L98)
